@@ -1,5 +1,6 @@
 # Music-Metadata-Structure-Setup
-Simple application that applies directory structure to music metadata.
+Simple application that applies directory structure to music metadata.<br/>
+<a href="https://github.com/ShortDevelopment/Music-Metadata-Structure-Setup/releases/tag/v1.0">Download</a>
 # Example
 ```
 ├─── [Folder] Artist or Series Name
